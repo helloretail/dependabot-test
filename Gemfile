@@ -53,7 +53,7 @@ gem "roo", "~> 2.10"
 gem "whois", "~> 6.0"
 gem "whois-parser"
 # Registrable domain (eTLD+1) computation — handles .co.uk / .com.au correctly
-gem "public_suffix", "~> 5.1"
+gem "public_suffix", "~> 7.0"
 # Phone number parsing/validation backed by Google libphonenumber data —
 # handles "0039…" international prefix, national-format "0…", per-country
 # format/length validation, and E.164 formatting.
