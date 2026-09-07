@@ -193,7 +193,7 @@ GEM
       signet (>= 0.16, < 2.a)
     hana (1.3.7)
     hashdiff (1.2.1)
-    holidays (8.8.0)
+    holidays (11.5.0)
     i18n (1.15.2)
       concurrent-ruby (~> 1.0)
     importmap-rails (2.2.3)
@@ -547,7 +547,7 @@ DEPENDENCIES
   ferrum
   google-apis-drive_v3
   googleauth
-  holidays (~> 8.8)
+  holidays (~> 11.5)
   importmap-rails
   jwt (~> 3.2)
   kamal
