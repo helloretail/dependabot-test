@@ -48,7 +48,7 @@ gem "ruby-openai"
 # sheets): service-account Drive export + XLSX parsing
 gem "google-apis-drive_v3"
 gem "googleauth"
-gem "roo", "~> 2.10"
+gem "roo", "~> 3.0"
 # WHOIS lookups for domain verification
 gem "whois", "~> 6.0"
 gem "whois-parser"
@@ -69,7 +69,7 @@ gem "concurrent-ruby"
 # Fast HTML parser based on Lexbor — 5x faster than Nokogiri, thread-safe architecture
 gem "nokolexbor"
 # ZIP file extraction (Wappalyzer delivers lead lists as ZIP/CSV)
-gem "rubyzip", "~> 2.3", require: "zip"
+gem "rubyzip", "~> 3.6", require: "zip"
 # CSV parsing (CSV Domain Checker upload). Declared explicitly because csv leaves
 # Ruby's default gems in 3.4; without this it warns on every load under 3.3.
 gem "csv"
