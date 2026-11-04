@@ -59,7 +59,7 @@ gem "public_suffix", "~> 5.1"
 # format/length validation, and E.164 formatting.
 gem "phonelib", "~> 0.10"
 # QR code generation (display pairing flow)
-gem "rqrcode", "~> 2.2"
+gem "rqrcode", "~> 3.2"
 # Faraday redirect following (extracted from Faraday 2.x)
 gem "faraday-follow_redirects"
 # Headless Chrome for JavaScript-rendered page inspection (enrichment crawlers)
