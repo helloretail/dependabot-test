@@ -311,7 +311,7 @@ GEM
       activesupport (>= 7.0.0)
       rack
     pstore (0.2.1)
-    public_suffix (5.1.1)
+    public_suffix (7.0.5)
     puma (8.0.2)
       nio4r (~> 2.0)
     raabro (1.4.0)
@@ -557,7 +557,7 @@ DEPENDENCIES
   pg (~> 1.1)
   phonelib (~> 0.10)
   propshaft
-  public_suffix (~> 5.1)
+  public_suffix (~> 7.0)
   puma (>= 5.0)
   rack-attack
   rack-timeout
