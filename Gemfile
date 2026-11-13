@@ -102,4 +102,4 @@ gem "neighbor", "~> 0.6.0"
 
 gem "jwt", "~> 3.2"
 
-gem "holidays", "~> 8.8"
+gem "holidays", "~> 11.5"
